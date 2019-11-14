@@ -19,3 +19,4 @@ mj.songs << thriller
 
 pop.songs << thriller
 rap.songs << hotline_bling
+
